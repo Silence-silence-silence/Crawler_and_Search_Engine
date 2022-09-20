@@ -1,0 +1,20 @@
+http://www.ics.uci.edu/~pjsadows
+peter -> 2 
+sadowski -> 2 
+uc -> 1 
+irvine -> 1 
+department -> 1 
+computer -> 1 
+science -> 1 
+personal -> 1 
+research -> 1 
+home -> 1 
+now -> 1 
+assistant -> 1 
+professor -> 1 
+univ -> 1 
+hawai -> 1 
+manoa -> 1 
+contact -> 1 
+2015 -> 1 
+ce -> 1 

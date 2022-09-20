@@ -1,0 +1,12 @@
+http://www.ics.uci.edu/~wjohnson/BIDA/AppendixC/leukemia.txt
+model -> 1 
+n1 -> 1 
+dexp -> 2 
+theta1 -> 3 
+n2 -> 1 
+theta2 -> 3 
+dgamma -> 2 
+01 -> 4 
+median1 -> 1 
+log -> 2 
+median2 -> 1 

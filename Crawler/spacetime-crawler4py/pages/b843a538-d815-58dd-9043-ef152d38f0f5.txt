@@ -1,0 +1,26 @@
+https://sli.ics.uci.edu/Projects/Vision
+sli -> 1 
+projects -> 2 
+vision -> 2 
+classes -> 1 
+group -> 1 
+research -> 1 
+publications -> 1 
+code -> 1 
+login -> 1 
+last -> 1 
+modified -> 1 
+july -> 1 
+06 -> 1 
+2010 -> 1 
+10 -> 1 
+48 -> 1 
+pm -> 1 
+bren -> 1 
+school -> 1 
+information -> 1 
+computer -> 1 
+science -> 1 
+university -> 1 
+california -> 1 
+irvine -> 1 

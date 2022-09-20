@@ -1,0 +1,22 @@
+http://www.ics.uci.edu/~yamingy/cocktail_demo.m
+fprintf -> 5 
+demonstration -> 1 
+cocktail -> 1 
+algorithm -> 1 
+optimal -> 2 
+designs -> 1 
+approximate -> 1 
+theory -> 1 
+model -> 1 
+exp -> 5 
+2s -> 1 
+design -> 1 
+variables -> 1 
+00 -> 1 
+floor -> 1 
+index -> 2 
+output -> 1 
+noptimal -> 1 
+support -> 1 
+points -> 1 
+weights -> 1 

@@ -1,0 +1,18 @@
+http://www.ics.uci.edu/~respond
+hostmonitor -> 2 
+sensorium -> 4 
+sensor -> 2 
+report -> 2 
+bren -> 6 
+hall -> 6 
+calit2 -> 4 
+infrastructure -> 5 
+status -> 5 
+general -> 1 
+servers -> 1 
+routers -> 1 
+ftp -> 1 
+temprature -> 1 
+sensors -> 3 
+optical -> 1 
+acoustic -> 1 

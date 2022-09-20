@@ -1,0 +1,17 @@
+https://ugradforms.ics.uci.edu
+login -> 5 
+ics -> 2 
+sao -> 1 
+prerequisite -> 1 
+clearing -> 1 
+system -> 1 
+please -> 1 
+input -> 1 
+ucinetid -> 2 
+credentials -> 1 
+password -> 1 
+uci -> 1 
+2021 -> 1 
+powered -> 1 
+yii -> 1 
+framework -> 1 

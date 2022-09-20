@@ -1,0 +1,23 @@
+http://www.ics.uci.edu/%7Emagda/netsys230.html
+netsys230 -> 1 
+wireless -> 1 
+mobile -> 1 
+networking -> 1 
+prof -> 1 
+magda -> 2 
+el -> 1 
+zarki -> 1 
+dept -> 1 
+ics -> 2 
+university -> 1 
+california -> 1 
+irvine -> 1 
+elzarki -> 1 
+uci -> 2 
+edu -> 2 
+http -> 1 
+www -> 1 
+course -> 1 
+outline -> 1 
+announcements -> 1 
+projects -> 1 

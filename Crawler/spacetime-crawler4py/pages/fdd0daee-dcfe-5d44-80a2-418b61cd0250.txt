@@ -1,0 +1,25 @@
+http://www.ics.uci.edu/~stasio/winter06/Lectures/Lec6code
+index -> 2 
+stasio -> 2 
+winter06 -> 2 
+lectures -> 2 
+lec6code -> 2 
+parent -> 1 
+directory -> 1 
+bookexample -> 1 
+employeeexample -> 1 
+progressionexample -> 1 
+apache -> 1 
+centos -> 1 
+openssl -> 1 
+2k -> 1 
+fips -> 1 
+svn -> 1 
+14 -> 1 
+server -> 1 
+www -> 1 
+ics -> 1 
+uci -> 1 
+edu -> 1 
+port -> 1 
+80 -> 1 

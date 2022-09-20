@@ -1,0 +1,21 @@
+http://www.ics.uci.edu/Arcadia/Teamware/demo/browser.html
+online -> 1 
+interactive -> 1 
+teamware -> 1 
+demo -> 1 
+browser -> 3 
+the -> 1 
+category -> 2 
+allows -> 1 
+user -> 1 
+browse -> 1 
+categories -> 2 
+specifications -> 3 
+instances -> 1 
+it -> 1 
+cascading -> 1 
+based -> 2 
+instannces -> 1 
+specification -> 1 
+instance -> 1 
+dismiss -> 1 

@@ -1,0 +1,21 @@
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch10/DentalWBcode.txt
+random -> 1 
+slopes -> 1 
+intercepts -> 1 
+interaction -> 1 
+model -> 1 
+27 -> 2 
+distance1 -> 1 
+dnorm -> 2 
+tau -> 4 
+beta -> 4 
+age1 -> 1 
+male1 -> 1 
+dmnorm -> 1 
+mu0 -> 1 
+prec -> 2 
+dwish -> 1 
+0001 -> 3 
+dgamma -> 1 
+sigma -> 1 
+sqrt -> 1 

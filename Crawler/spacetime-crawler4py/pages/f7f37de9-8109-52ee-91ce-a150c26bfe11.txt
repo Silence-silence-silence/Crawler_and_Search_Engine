@@ -1,0 +1,27 @@
+https://sli.ics.uci.edu/Classes-2008/RecentChanges
+sli -> 1 
+classes -> 3 
+2008 -> 4 
+recentchanges -> 2 
+group -> 1 
+research -> 1 
+publications -> 1 
+code -> 1 
+login -> 1 
+main -> 1 
+october -> 2 
+01 -> 2 
+11 -> 2 
+47 -> 2 
+am -> 2 
+ihler -> 1 
+last -> 1 
+modified -> 1 
+bren -> 1 
+school -> 1 
+information -> 1 
+computer -> 1 
+science -> 1 
+university -> 1 
+california -> 1 
+irvine -> 1 

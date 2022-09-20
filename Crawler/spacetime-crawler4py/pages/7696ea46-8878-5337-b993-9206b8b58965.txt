@@ -1,0 +1,20 @@
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch9/FEVWBModel1.txt
+model -> 1 
+fev -> 2 
+dnorm -> 1 
+mu -> 3 
+tau -> 4 
+beta -> 5 
+age -> 2 
+smoke -> 2 
+cpoinv -> 1 
+sqrt -> 1 
+14159 -> 1 
+exp -> 1 
+pow -> 1 
+dmnorm -> 1 
+betastar -> 1 
+c0inv -> 1 
+bcj -> 1 
+prior -> 1 
+dgamma -> 1 

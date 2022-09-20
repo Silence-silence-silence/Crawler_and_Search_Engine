@@ -1,0 +1,16 @@
+http://www.ics.uci.edu/~yamingy/cocktail_demo1.r
+print -> 5 
+demonstration -> 1 
+cocktail -> 1 
+algorithm -> 1 
+optimal -> 2 
+designs -> 1 
+approximate -> 1 
+theory -> 1 
+model -> 1 
+exp -> 4 
+2t -> 2 
+design -> 1 
+variable -> 1 
+00 -> 1 
+weights -> 1 

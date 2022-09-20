@@ -1,0 +1,14 @@
+http://www.ics.uci.edu/Arcadia/Teamware/docs/packages.html
+package -> 6 
+index -> 2 
+api -> 2 
+user -> 2 
+guide -> 1 
+class -> 1 
+hierarchy -> 1 
+applet -> 1 
+packages -> 1 
+foundation -> 3 
+objv -> 1 
+toolbox -> 1 
+system -> 1 

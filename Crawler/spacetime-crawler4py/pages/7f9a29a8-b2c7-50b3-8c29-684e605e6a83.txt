@@ -1,0 +1,17 @@
+https://wearablegames.ics.uci.edu/wp-login.php
+log -> 1 
+in -> 1 
+costumes -> 2 
+wearables -> 2 
+game -> 2 
+controllers -> 2 
+wordpress -> 2 
+powered -> 1 
+username -> 1 
+email -> 1 
+address -> 1 
+password -> 2 
+remember -> 1 
+me -> 1 
+lost -> 1 
+go -> 1 

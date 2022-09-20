@@ -1,0 +1,19 @@
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch5/SampleSizeProportions.txt
+two -> 2 
+population -> 1 
+sample -> 1 
+size -> 1 
+proportions -> 2 
+comparing -> 1 
+model -> 1 
+y1 -> 1 
+dbin -> 2 
+theta1 -> 3 
+n1 -> 1 
+y2 -> 1 
+theta2 -> 3 
+n2 -> 1 
+dbeta -> 2 
+rr -> 2 
+ht -> 1 
+step -> 1 

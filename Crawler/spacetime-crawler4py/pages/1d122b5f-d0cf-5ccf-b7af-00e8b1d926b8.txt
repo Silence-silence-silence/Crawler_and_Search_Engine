@@ -1,0 +1,25 @@
+https://sli.ics.uci.edu/Site/GroupAttributes
+sli -> 1 
+site -> 2 
+groupattributes -> 2 
+classes -> 1 
+group -> 1 
+research -> 1 
+publications -> 1 
+code -> 1 
+login -> 1 
+last -> 1 
+modified -> 1 
+september -> 1 
+10 -> 2 
+2011 -> 1 
+03 -> 1 
+am -> 1 
+bren -> 1 
+school -> 1 
+information -> 1 
+computer -> 1 
+science -> 1 
+university -> 1 
+california -> 1 
+irvine -> 1 

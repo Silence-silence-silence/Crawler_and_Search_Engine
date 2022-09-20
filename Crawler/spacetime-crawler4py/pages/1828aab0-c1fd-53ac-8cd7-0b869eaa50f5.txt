@@ -1,0 +1,26 @@
+http://www.ics.uci.edu/Arcadia/Teamware/demo/attach.html
+online -> 1 
+interactive -> 1 
+teamware -> 1 
+demo -> 1 
+specification -> 2 
+artifact -> 1 
+inputs -> 2 
+outputs -> 2 
+resource -> 1 
+assignments -> 1 
+can -> 1 
+attached -> 1 
+as -> 1 
+activity -> 1 
+executed -> 1 
+interpreter -> 1 
+checks -> 1 
+make -> 1 
+sure -> 1 
+values -> 1 
+assigned -> 1 
+resources -> 1 
+enabling -> 1 
+completing -> 1 
+done -> 1 

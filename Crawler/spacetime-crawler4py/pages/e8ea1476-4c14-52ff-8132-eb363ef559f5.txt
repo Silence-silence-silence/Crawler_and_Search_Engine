@@ -1,0 +1,16 @@
+http://www.ics.uci.edu/%7Emagda/ics_x33/announceU.html
+announceu -> 1 
+html -> 1 
+announcements -> 1 
+cisco -> 1 
+vmtemplates -> 1 
+renaming -> 1 
+document -> 2 
+vm_testing -> 1 
+here -> 1 
+pdf -> 1 
+files -> 1 
+first -> 1 
+four -> 1 
+topics -> 1 
+chapter -> 5 

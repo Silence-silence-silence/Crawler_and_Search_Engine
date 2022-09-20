@@ -1,0 +1,27 @@
+http://www.ics.uci.edu/~kay/courses/i42/wildride/data/customers.txt
+sample -> 1 
+ride -> 2 
+file -> 1 
+john -> 1 
+mccarthy -> 1 
+15 -> 1 
+closest -> 1 
+first -> 2 
+empty -> 1 
+wish -> 1 
+list -> 1 
+polymorphic -> 1 
+paddleboats -> 1 
+inheritance -> 2 
+insanity -> 2 
+donald -> 1 
+knuth -> 1 
+25 -> 1 
+highest -> 1 
+priority -> 1 
+set -> 1 
+time -> 1 
+10 -> 1 
+00 -> 1 
+casting -> 1 
+coaster -> 1 

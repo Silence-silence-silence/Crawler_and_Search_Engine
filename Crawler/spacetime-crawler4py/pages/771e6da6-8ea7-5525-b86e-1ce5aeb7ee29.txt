@@ -1,0 +1,27 @@
+http://www.ics.uci.edu/%7Emajumder/project.html
+aditi -> 1 
+majumder -> 1 
+content -> 1 
+adaptive -> 1 
+user -> 1 
+controllable -> 1 
+camera -> 1 
+icvideo -> 1 
+interactive -> 1 
+collaborative -> 1 
+video -> 1 
+ubiquitous -> 1 
+displays -> 1 
+tiled -> 1 
+projection -> 1 
+based -> 2 
+display -> 1 
+walls -> 1 
+appearance -> 1 
+editing -> 1 
+perception -> 1 
+image -> 1 
+processing -> 1 
+non -> 1 
+photorealistic -> 1 
+rendering -> 1 

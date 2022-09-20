@@ -1,0 +1,16 @@
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch9/Model6.txt
+model -> 1 
+fev -> 2 
+dnorm -> 6 
+mu -> 3 
+tau -> 4 
+beta -> 10 
+age -> 4 
+smoke -> 3 
+cpoinv -> 1 
+sqrt -> 1 
+14159 -> 1 
+exp -> 1 
+pow -> 1 
+001 -> 7 
+dgamma -> 1 

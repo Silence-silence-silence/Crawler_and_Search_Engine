@@ -1,0 +1,27 @@
+http://www.ics.uci.edu/~kay/courses/i42/wildride/data/rides2.txt
+screaming -> 1 
+schemers -> 1 
+cycle -> 3 
+polymorphic -> 1 
+paddleboats -> 1 
+12 -> 2 
+interval -> 4 
+10 -> 4 
+inheritance -> 1 
+insanity -> 1 
+20 -> 1 
+continuous -> 1 
+car -> 1 
+cdr -> 1 
+cars -> 1 
+15 -> 2 
+25 -> 1 
+recursion -> 1 
+riders -> 1 
+casting -> 1 
+coaster -> 1 
+the -> 1 
+bit -> 1 
+bucket -> 1 
+java -> 1 
+jumper -> 1 

@@ -1,0 +1,25 @@
+http://www.ics.uci.edu/~stasio/winter06/Homeworks/hw6.txt
+homework -> 1 
+due -> 1 
+wednesday -> 1 
+mar -> 1 
+15 -> 1 
+discussion -> 1 
+section -> 1 
+11 -> 1 
+hint -> 3 
+see -> 1 
+12 -> 2 
+14 -> 2 
+use -> 2 
+tree -> 1 
+traversal -> 1 
+algorithm -> 1 
+26 -> 1 
+stack -> 1 
+16 -> 1 
+17 -> 2 
+scoring -> 1 
+exercise -> 2 
+worth -> 2 
+points -> 2 

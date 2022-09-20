@@ -1,0 +1,14 @@
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch9/DugongWBcode.txt
+model -> 1 
+dnorm -> 1 
+theta -> 2 
+tau -> 2 
+beta -> 7 
+exp -> 2 
+xstd -> 1 
+dmnorm -> 1 
+beta0 -> 1 
+prec0 -> 1 
+dgamma -> 1 
+thetastar -> 1 
+xstar -> 1 

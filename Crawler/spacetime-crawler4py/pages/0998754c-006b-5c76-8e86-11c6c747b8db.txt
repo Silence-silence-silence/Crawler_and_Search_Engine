@@ -1,0 +1,16 @@
+http://www.ics.uci.edu/%7Ejacobson/IntroCourses.html
+first -> 3 
+course -> 3 
+computer -> 4 
+science -> 3 
+links -> 1 
+syllabi -> 1 
+web -> 1 
+introduction -> 1 
+courses -> 1 
+taught -> 1 
+java -> 2 
+texts -> 1 
+coverage -> 1 
+arrays -> 1 
+arraylists -> 1 

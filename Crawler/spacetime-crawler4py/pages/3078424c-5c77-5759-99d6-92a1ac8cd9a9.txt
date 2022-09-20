@@ -1,0 +1,25 @@
+http://www.ics.uci.edu/%7Emagda/Courses/ics167/demo_3
+index -> 2 
+magda -> 2 
+courses -> 2 
+ics167 -> 2 
+demo_3 -> 2 
+parent -> 1 
+directory -> 1 
+makefile -> 1 
+readme -> 1 
+client -> 1 
+port -> 2 
+server -> 2 
+apache -> 1 
+centos -> 1 
+openssl -> 1 
+2k -> 1 
+fips -> 1 
+svn -> 1 
+14 -> 1 
+www -> 1 
+ics -> 1 
+uci -> 1 
+edu -> 1 
+80 -> 1 

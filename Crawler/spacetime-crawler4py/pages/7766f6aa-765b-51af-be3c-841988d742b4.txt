@@ -1,0 +1,22 @@
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch4/Ch4Rcode.txt
+bayes -> 1 
+book -> 1 
+ch -> 1 
+fundamental -> 1 
+ideas -> 1 
+ii -> 1 
+code -> 1 
+figure -> 1 
+10 -> 1 
+theta -> 6 
+seq -> 1 
+001 -> 1 
+lik -> 2 
+choose -> 1 
+plot -> 1 
+type -> 1 
+lwd -> 1 
+xlab -> 1 
+expression -> 2 
+ylab -> 1 
+paste -> 1 

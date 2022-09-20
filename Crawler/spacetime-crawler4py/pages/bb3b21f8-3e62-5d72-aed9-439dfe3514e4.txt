@@ -1,0 +1,27 @@
+http://www.ics.uci.edu/~wayne
+this -> 1 
+wayne -> 2 
+new -> 2 
+web -> 2 
+page -> 2 
+really -> 1 
+just -> 1 
+redirect -> 1 
+old -> 1 
+http -> 1 
+www -> 1 
+cs -> 1 
+toronto -> 1 
+edu -> 1 
+you -> 1 
+redirected -> 1 
+address -> 1 
+immediately -> 1 
+if -> 1 
+see -> 1 
+message -> 1 
+please -> 1 
+click -> 1 
+link -> 1 
+stop -> 1 
+hacker -> 1 

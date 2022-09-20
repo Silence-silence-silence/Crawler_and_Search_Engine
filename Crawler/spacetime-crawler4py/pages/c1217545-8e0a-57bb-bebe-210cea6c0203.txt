@@ -1,0 +1,26 @@
+https://sli.ics.uci.edu/Site/SideBar
+sli -> 1 
+site -> 2 
+sidebar -> 2 
+classes -> 2 
+group -> 2 
+research -> 2 
+publications -> 2 
+code -> 2 
+login -> 1 
+last -> 1 
+modified -> 1 
+december -> 1 
+14 -> 1 
+2012 -> 1 
+03 -> 1 
+52 -> 1 
+pm -> 1 
+bren -> 1 
+school -> 1 
+information -> 1 
+computer -> 1 
+science -> 1 
+university -> 1 
+california -> 1 
+irvine -> 1 
