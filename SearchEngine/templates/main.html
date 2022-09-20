@@ -1,0 +1,71 @@
+<!doctype html>
+
+
+<html lang="en">
+
+<style>
+  .a {
+    position: relative;
+    background-color: white;
+    width: 100%;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, .8);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.b {
+    display: flex;
+    flex-direction: column;
+    justify-content: top;
+    align-items: center;
+    width: 100%;
+    min-height: 1300px;
+    background-color: white;
+    margin: 0;
+}
+.g {
+    margin: 20px;
+    margin-top: 100px;
+    bottom: 50px;
+    display: block;
+    width: 200px;
+    height: 60px;
+    font: 900 30px '';
+    text-decoration: none;
+    line-height: 50px;
+    border-radius: 30px;
+    background: linear-gradient(to left, #2d4545, #3e4146);
+    text-align: center;
+}
+.e {
+    width: 230px;
+    margin: 20px 0;
+    outline: none;
+    border: 0;
+    padding: 10px;
+    border-bottom: 3px solid rgb(80, 80, 170);
+    font: 900 16px '';
+}
+
+  </style>
+
+  <body>
+    <div class="a">
+        <div class="b">
+        <h1 class="search_head">Search: </h1>
+    <form action="/result" method="post">
+
+
+
+      <input type="text" class="e"  name= "query" placeholder="Enter query">
+
+
+    <button type="submit" class="g">Submit</button>
+    </form>
+
+       </div>
+    </div>>
+
+  </body>
+</html>
